@@ -1,0 +1,4 @@
+repository "versionControlTest@BOLT_7@cloud"
+  path "/"
+    br "/main"
+    co "/main"
